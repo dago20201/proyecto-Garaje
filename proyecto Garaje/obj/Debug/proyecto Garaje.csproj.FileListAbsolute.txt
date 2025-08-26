@@ -1,0 +1,8 @@
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\bin\Debug\proyecto Garaje.exe.config
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\bin\Debug\proyecto Garaje.exe
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\bin\Debug\proyecto Garaje.pdb
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\obj\Debug\proyecto Garaje.csproj.AssemblyReference.cache
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\obj\Debug\proyecto Garaje.csproj.CoreCompileInputs.cache
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\obj\Debug\proyecto Garaje.exe
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\obj\Debug\proyecto Garaje.pdb
+D:\Programación Orientada a Objeto\proyecto-Garaje\proyecto Garaje\obj\Debug\proyecto Garaje.exe.config
